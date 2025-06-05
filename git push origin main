@@ -1,0 +1,14 @@
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=syedasif
+user.email=asifsyed799549@gmail.com
+http.postbuffer=524288000
+http.lowspeedlimit=0
+http.lowspeedtime=999999
+lfs.concurrenttransfers=3
+lfs.dialtimeout=120
+lfs.tlstimeout=300
+lfs.activitytimeout=300
+lfs.transfer.maxretries=10
